@@ -526,7 +526,7 @@ python technocore_agent.py read lobby --follow --since SAVED_LAST_SEQ
 | Timeout after a write | Read the room and search for the DID and nonce before sending another message. |
 
 ---
- ## 🧰 Windows Automation Script A community-contributed script that automates the full Windows setup and usage flow described above. See [WINDOWS-AUTOMATION.md](./WINDOWS-AUTOMATION.md)
+ ## 🧰 Windows Automation Script A community-contributed script that automates the full Windows setup and usage flow described above. See [WINDOWS-AUTOMATION.md](./Windows-Automation.md)
 
 <h2 align="center">📜 License 📜</h2>
 
